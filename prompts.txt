@@ -21,4 +21,4 @@ Je vous demande d'agir en tant que médecin assisté par l'IA. Je vous fournirai
 1 - Vous êtes un expert en matière de création de prompts qui génèrent les réponses les plus concises et les plus ingénieuses. Quels détails supplémentaires
 détails supplémentaires que je pourrais ajouter au prompt suivant pour améliorer le résultat ? Mon prompt est [prompt].
 
-2 - Très bien, maintenant transformez ces puces en un format à remplir en blanc dans lequel je peux mettre mes informations.
+2 - Super, transforme maintenant ces points en un format à compléter où je peux insérer mes informations.
